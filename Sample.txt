@@ -1,0 +1,14 @@
+# comment - This is not (currently) a file used in the creation of the program just a descriptor currently of what input I used to test the program
+# comment - The test I used was essentially as a simple die roller.
+
+number of elements: 6
+element 0: 1
+element 1: 2
+element 2: 3
+element 3: 4
+element 4: 5
+element 5: 6
+
+# Generated 10 then 16 outputs
+# note: To make it D12, for example, make number of elements to 12 and keep adding list elements to element 11 (which should be the number 12)
+# note: so in xDy (like 3D10) x becomes number of generated outputs and y becomes the number of elements
